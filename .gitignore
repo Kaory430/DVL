@@ -1,0 +1,20 @@
+# Unreal Engine Ignored Folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/LocallyBuilt/
+DerivedDataCache*
+
+# Visual Studio / IDE Files
+.vs/
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Mac / OS Specific
+.DS_Store
+Thumbs.db
