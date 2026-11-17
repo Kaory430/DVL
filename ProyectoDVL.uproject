@@ -1,9 +1,23 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.8",
+	"EngineAssociation": "{4E80723D-4158-D2D0-C82E-73893FF8E110}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "ProyectoDVL",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
+		{
+			"Name": "OnlineSubsystemNull",
+			"Enabled": true
+		},
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true,
