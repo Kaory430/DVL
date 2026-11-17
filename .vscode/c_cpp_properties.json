@@ -7,7 +7,7 @@
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
-                "C:\\Users\\52811\\Documents\\Github\\DVL 5.8\\.vscode\\compileCommands_ProyectoDVL.json"
+                "C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL.json"
             ]
         },
         {
@@ -17,7 +17,7 @@
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
-                "C:\\Users\\52811\\Documents\\Github\\DVL 5.8\\.vscode\\compileCommands_Default.json"
+                "C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_Default.json"
             ]
         }
     ],

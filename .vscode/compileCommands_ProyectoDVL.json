@@ -1,17 +1,169 @@
 [
 	{
-		"file": "C:\\Users\\52811\\Documents\\Github\\DVL 5.8\\Source\\ProyectoDVL\\Private\\PersonajeBase.cpp",
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\Botin.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\52811\\Documents\\Github\\DVL 5.8\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\52811\\Documents\\Github\\DVL 5.8\\Source\\ProyectoDVL\\ProyectoDVL.cpp",
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\Celda.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\52811\\Documents\\Github\\DVL 5.8\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\ControladorJugadorDVL.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\EstadoJuegoDVL.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\EstadoJugadorDVL.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\HealthComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\IndicadorInteraccion.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\InstanciaJuegoDVL.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\InteractableInterface.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\MenuDVL.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\ModoJuegoDVL.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\ModoMenuDVL.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\ModoSalaDVL.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\PersonajeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\PersonajeLadron.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\PersonajePolicia.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\PowerupComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\PuntoPowerup.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\Tests\\InteraccionesTests.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\Private\\Tests\\SalaTests.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\52811\\Documents\\Github\\DVL\\Source\\ProyectoDVL\\ProyectoDVL.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\52811\\Documents\\Github\\DVL\\.vscode\\compileCommands_ProyectoDVL\\ProyectoDVL.0.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
 	}
