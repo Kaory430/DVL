@@ -625,7 +625,7 @@ void UPartidaDVL::NativeOnInitialized()
 	TamanoMenu->AddChild(PanelOpciones);
 	UVerticalBox* Panel = WidgetTree->ConstructWidget<UVerticalBox>();
 	PanelOpciones->AddChild(Panel);
-	AgregarTexto(WidgetTree, Panel, TEXT("CHASE BY PIGS"), 14, Ambar, true);
+	AgregarTexto(WidgetTree, Panel, TEXT("OPERACION BOTIN"), 14, Ambar, true);
 	TextoResultado = AgregarTexto(WidgetTree, Panel, TEXT("OPCIONES"), 34, Blanco, true);
 	TextoDetalle = AgregarTexto(WidgetTree, Panel, TEXT(""), 17, Gris);
 	TextoVotos = AgregarTexto(WidgetTree, Panel, TEXT(""), 15, Blanco);
